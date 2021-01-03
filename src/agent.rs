@@ -1,5 +1,4 @@
 use super::capabilities::Capabilities;
-use super::config::Config;
 use super::environment::jvm::{JVMF, JVMAgent};
 use super::environment::jvmti::JVMTI;
 use super::event::*;
